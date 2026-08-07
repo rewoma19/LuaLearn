@@ -1,13 +1,25 @@
 # Learning Lua
 
-## 01. Variables and Flow Control
+**Learning Resources**:
 
-### Code File
+- [Learn Lua in 15 minutes](https://tylerneylon.com/a/learn-lua/)
+
+- [Lua on Exercism](https://exercism.org/tracks/lua)
+
+## Day 1
+
+### Variables, Flow Controls, and Functions
 
 - [variables.lua](/variables.lua)
 
-## 02. Functions
-
-### Code File
-
 - [funcs.lua](/funcs.lua)
+
+### Exercises
+
+**Instructions**
+
+- [LEAP.md](/Exercises/Leap/LEAP.md)
+
+**Solution**
+
+- [leap.lua](/Exercises/Leap/leap.lua)
