@@ -23,3 +23,13 @@
 **Solution**
 
 - [leap.lua](/Exercises/Leap/leap.lua)
+
+## Day 2
+
+### Tables and Metatables
+
+- [tables.lua](/Basics/tables.lua)
+
+### Modules
+
+- [modules.lua](/Basics/modules.lua)
