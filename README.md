@@ -33,3 +33,9 @@
 ### Modules
 
 - [modules.lua](/Basics/modules.lua)
+
+### Exercises
+
+- [RAINDROPS.md](/Exercises/Raindrops/RAINDROPS.md)
+
+- [raindrops.lua](/Exercises/Raindrops/raindrops.lua)
