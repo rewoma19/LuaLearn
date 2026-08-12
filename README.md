@@ -39,3 +39,11 @@
 - [RAINDROPS.md](/Exercises/Raindrops/RAINDROPS.md)
 
 - [raindrops.lua](/Exercises/Raindrops/raindrops.lua)
+
+## Day 3
+
+### Exercises
+
+- [RESCOL.md](/Exercises/ResColor/RESCOL.md)
+
+- [rescolor.lua](/Exercises/ResColor/rescolor.lua)
